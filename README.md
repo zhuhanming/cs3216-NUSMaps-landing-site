@@ -11,7 +11,7 @@ As such, NUSMaps was conceptualised to help alleviate this problem, by providing
 **[View Interactive Preview](https://zhuhanming.github.io/cs3216-NUSMaps-landing-site/)**  
   
 Note: the above interactive preview may have certain issues due to loading time. To get the full experience, you can consider downloading the original Adobe XD files from the link below. Adobe XD is now free for use.  
-**[View Original Adobe XD Files]()**
+**[View Original Adobe XD Files](https://github.com/zhuhanming/cs3216-nusmaps-xdfiles)**
 
 ## Team
 
